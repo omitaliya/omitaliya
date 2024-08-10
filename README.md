@@ -82,5 +82,9 @@ My Skill Set
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/omitaliya/omitaliya/output/snake.svg" alt="Snake animation" />
+
 
 ###
