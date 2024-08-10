@@ -1,8 +1,6 @@
-
 <div align="center">
-  <img src="https://github.com/omitaliya/omitaliya/commit/b0a8224c4cf5564b823c46072f1c96bc40396ddd" align="center" style="width: 100%" />
+  <img src="https://github.com/omitaliya/omitaliya/commit/Screenshot 2024-08-10 220118.png" align="center" style="width: 100%" />
 </div>
-
 
 <h2 align="left">Hi 👋! My name is Om and I'm a self motivated , from Gujarat.</h2>
 
