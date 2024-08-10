@@ -2,11 +2,13 @@
 <div align="center">Hi 👋, I'm Om italiya
   <br>
 Digital Architect: Building Tomorrow's Web Today
-  <br>
-- Digital Architect: Building Tomorrow's Web Today
+  
 </div>  
 
--"🎓 MCA student at LJ University, welcome to my GitHub playground! 🚀 I'm Om, a web developer weaving digital magic with Php, Laravel, HTML, CSS, and JS. Dive into my projects, where each line of code tells a story of innovation and creativity. Together, let's turn ideas into reality, one commit at a time! 💻✨".🌎🌎  
+-"🎓 MCA student at LJ University, welcome to my GitHub playground! 🚀 I'm Om, a web developer weaving digital magic with Php, Laravel, HTML, CSS, and JS. 
+<br>
+Dive into my projects, where each line of code tells a story of innovation and creativity.
+Together, let's turn ideas into reality, one commit at a time! 💻✨".🌎🌎  
 
 
 - ⚡ Fun fact: I use tabs over spaces  
