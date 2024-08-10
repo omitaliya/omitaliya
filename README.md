@@ -64,10 +64,7 @@ My Skill Set
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
-<br/>  
-  
-<br/>  
-  
+
 <br/>  
 <br />
 ----
@@ -76,11 +73,9 @@ My Skill Set
 
 
 ###
-<br clear="both">
+<img src="https://raw.githubusercontent.com/omitaliya/omitaliya/output/snake.svg" alt="Snake animation" />
 
-<img src="https://raw.githubusercontent.com/omitaliya/omitaliya/snake.svg" alt="Snake animation" />
-
-
+###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/omitaliya/count.svg?"  />
