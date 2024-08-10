@@ -8,8 +8,10 @@ Digital Architect: Building Tomorrow's Web Today
  
 <br>
 
--"🎓 MCA student at LJ University, welcome to my GitHub playground! 🚀 I'm Om, a web developer weaving digital magic with Php,<br>
-Laravel, HTML, CSS, and JS. Dive into my projects, where each line of code tells a story of innovation and creativity.
+-"🎓 MCA student at LJ University, welcome to my GitHub playground! <br>
+🚀 I'm Om, a web developer weaving digital magic with Php,Laravel, HTML, CSS, and JS. Dive into my projects, <br>
+where each line of code tells a story of innovation and creativity.
+
 Together, let's turn ideas into reality, one commit at a time! 💻✨".🌎🌎  
 
 
@@ -39,13 +41,9 @@ My Skill Set
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-
-  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>    
 </div>
-
 </td><td valign="top" width="33%">
-
 </div><br/>
 ### Backend  
 <div align="center">  
@@ -59,7 +57,7 @@ My Skill Set
 </div>
 </td></tr></table>  
 <br/>  
-## Connect with me  <br>
+## Connect with me  <br><br>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/omitaliya/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
