@@ -50,7 +50,7 @@ My Skill Set
 
 
 
-<br clear="both">
+
 
 
 </td><td valign="top" width="33%">
@@ -82,10 +82,6 @@ My Skill Set
 <br />
 ----
 <div align="center"> <a href="mailto:Omitaliya789@gmail.com">Omitaliya789@gmail.com</a></div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/omitaliya/count.svg?"  />
-</div>
 
 
 
