@@ -1,4 +1,9 @@
 
+<div align="center">
+  <img src="https://github.com/omitaliya/omitaliya/blob/main/Screenshot%202024-08-10%20220118.png" align="center" style="width: 100%" />
+</div>
+
+
 <div align="center">Hi 👋, I'm Om italiya
   <br>
 Digital Architect: Building Tomorrow's Web Today
@@ -11,7 +16,6 @@ Digital Architect: Building Tomorrow's Web Today
 -"🎓 MCA student at LJ University, welcome to my GitHub playground! <br>
 🚀 I'm Om, a web developer weaving digital magic with Php,Laravel, HTML, CSS, and JS. Dive into my projects, <br>
 where each line of code tells a story of innovation and creativity.
-
 Together, let's turn ideas into reality, one commit at a time! 💻✨".🌎🌎  
 
 
