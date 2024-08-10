@@ -32,8 +32,8 @@ Together, let's turn ideas into reality, one commit at a time! 💻✨".🌎🌎
 ###
 
 <div align="center">
-My Skill Set  
-  <br>
+My Skill Set  <br>
+  
 <table><tr><td valign="top" width="33%">
 ### Frontend  
 <div align="center">  
