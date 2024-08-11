@@ -43,7 +43,7 @@ Together, let's turn ideas into reality, one commit at a time! 💻✨".🌎🌎
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -71,6 +71,7 @@ Together, let's turn ideas into reality, one commit at a time! 💻✨".🌎🌎
 </div>
 </td></tr></table>  
 <br/>  
+<div align="center">
 ## Connect with me  <br><br>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/omitaliya/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -78,7 +79,7 @@ Together, let's turn ideas into reality, one commit at a time! 💻✨".🌎🌎
 <a href="https://github.com/https://github.com/omitaliya" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-  
+</div>
 <br>
 
 <br />
