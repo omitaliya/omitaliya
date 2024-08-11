@@ -14,8 +14,10 @@ Digital Architect: Building Tomorrow's Web Today
 <br>
 
 -"🎓 MCA student at LJ University, welcome to my GitHub playground! <br>
-🚀 I'm Om, a web developer weaving digital magic with Php,Laravel, HTML, CSS, and JS. Dive into my projects, <br>
-where each line of code tells a story of innovation and creativity.
+🚀 I'm Om, a web developer weaving digital Highly motivated and results-oriented Software Developer with 8 months of industry experience.<br>
+Possesses a strong foundation in problem-solving and thrives in identifying efficient solutions through code. Eager to leverage technical skills <br>
+and contribute to the development of innovative software products.  
+
 Together, let's turn ideas into reality, one commit at a time! 💻✨".🌎🌎  
 
 
