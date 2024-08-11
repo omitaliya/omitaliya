@@ -85,9 +85,4 @@ Together, let's turn ideas into reality, one commit at a time! 💻✨".🌎🌎
 <br />
 <div align="center">E-mail
 <div align="center"> <a href="mailto:Omitaliya789@gmail.com">Omitaliya789@gmail.com</a></div>
-
-
-
 <br>
-
-
