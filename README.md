@@ -7,7 +7,18 @@ Digital Architect: Building Tomorrow's Web Today
   
 </div>  
 <br>
- 
+ </div>
+</td></tr></table>  
+<br/>  
+<div align="center">
+## Connect with me  <br><br>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/omitaliya/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<: 5px;" />
+</a>  
+</div>
+<br>
 <br>
 
 -"🎓 MCA student at LJ University, welcome to my GitHub playground! <br>
@@ -63,18 +74,7 @@ Together, let's turn ideas into reality, one commit at a time! 💻✨".🌎🌎
 </div>
 
 ###
-</div>
-</td></tr></table>  
-<br/>  
-<div align="center">
-## Connect with me  <br><br>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/omitaliya/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<: 5px;" />
-</a>  
-</div>
-<br>
+
 
 <br />
 <div align="center">E-mail
