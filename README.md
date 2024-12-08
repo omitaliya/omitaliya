@@ -7,18 +7,9 @@ Digital Architect: Building Tomorrow's Web Today
   
 </div>  
 <br>
- </div>
-</td></tr></table>  
-<br/>  
 <div align="center">
-## Connect with me  <br><br>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/omitaliya/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<: 5px;" />
-</a>  
+  <img src="https://github.com/omitaliya/omitaliya/blob/main/Screenshot%202024-08-10%20220118.png" align="center" style="width: 100%" />
 </div>
-<br>
 <br>
 
 -"🎓 MCA student at LJ University, welcome to my GitHub playground! <br>
@@ -69,12 +60,21 @@ Together, let's turn ideas into reality, one commit at a time! 💻✨".🌎🌎
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
-<div align="center">
-  <img src="https://github.com/omitaliya/omitaliya/blob/main/Screenshot%202024-08-10%20220118.png" align="center" style="width: 100%" />
-</div>
+
 
 ###
-
+ </div>
+</td></tr></table>  
+<br/>  
+<div align="center">
+## Connect with me  <br><br>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/omitaliya/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<: 5px;" />
+</a>  
+</div>
+<br>
 
 <br />
 <div align="center">E-mail
