@@ -1,7 +1,7 @@
 
 
 
-<div align="center">Hi 👋, I'm Om italiya
+<div align="center">Hi 👋, 
   <br>
 Digital Architect: Building Tomorrow's Web Today
   
